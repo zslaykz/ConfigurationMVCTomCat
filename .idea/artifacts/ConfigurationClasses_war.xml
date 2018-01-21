@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ConfigurationClasses:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ConfigurationClasses-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ConfigurationClasses:war exploded" />
+    </root>
+  </artifact>
+</component>
